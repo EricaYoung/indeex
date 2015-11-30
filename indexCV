@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lapa</title>
+        <style>
+          body {
+		   background-color: #808080;
+		  }
+		  .content {
+		    background-color: #DDA0DD;
+			width: 700px;
+			margin: 0px auto auto auto;
+		  }
+		  .poga {
+		    background-color: #9932CC;
+			color: white;
+			padding: 10px;
+		  }
+		  .poga: hover {
+		    background-color: #DA70D6;
+		  }
+	   </style>
+		
+    </head>
+   <body>
+  <div class="content">
+     <ul>
+   <h1> Curriculum Vitae </h1>
+     </ul>
+     <ul>
+   <h2>Personas dati</h2>
+     <p> Ērika Junga </p>
+     <p> Rīga, Latvija </p>
+     <p> +37128253346 <p>
+     <p> jung.erika@inbox.lv </p>
+	 </ul>
+     <ul>
+   <h2>Darba pieredze</h2>
+   <h3>Veikala pārdevējs</h3>
+     <p>Maxima, Rīga (Latvija)(01/06/2008–01/08/2008)</p>
+   <h3>Sekretārs</h3>
+     <p>SIA Econorms(07/11/2011-03/05/2012)</p> 
+	 </ul>
+     <ul>
+   <h2>Izglitiba</h2>
+   <h3>Pamatizglītība</h3>
+     <p>Rigas 61. vidusskola(01/09/1999–20/06/2008)</p>
+   <h3>Diploms par profesionālo vidējo izglītību ar piešķirtu kvalifikāciju "Sekretārs", 3.līmenis</h3>
+     <p>Rigas Valsts tehnikums(01/09/2008–20/06/2012)</p>
+	 </ul>
+     <ul>
+   <h2>Prasmes:</h2>
+   <h3>Dzimta valoda:</h3>
+	 <li>Krievu</li>
+	<h3>Citas valodas:</h3>
+	 <li>Latviesu</li>
+	 <li>Angļu</li>
+	 </ul>
+	 <ul>
+	<h3>Ar darba pienākumiem saistītās prasmes:</h3>
+	  <li>Komunikācijas prasmes</li>
+	  <li>Prasme strādāt ar datoru</li>
+	  <li>Prasme kvalitātīvi izpildīt darba pienākumus</li>
+	<h3>Datorprasmes</h3>
+	  <li>Microsoft Office (Word, Excel, Access, Paint, Outlook)</li>
+	  <li>Corel draw</li>
+	  <li>Adobe Photoshop</li>
+	  </ul>
+	 
+<a class ="poga" href="otra-lapa.html" target="_self">Anketa</a>
+   </div>
+   </body>
+ </html>
+ 
+ 
